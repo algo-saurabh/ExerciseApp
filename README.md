@@ -1,8 +1,7 @@
 # exercise_app
 
-A new Flutter application.
-
-UI: https://www.figma.com/file/1Ce60JgX55EXhpRZc3sFdp/Workup%2B?node-id=0%3A1
+Exercise Application using flutter and postnet model.
+UI Link: https://www.figma.com/file/1Ce60JgX55EXhpRZc3sFdp/Workup%2B?node-id=0%3A1
 
 ## Getting Started
 
